@@ -1,0 +1,1 @@
+{"root":["./api/appointments.ts","./api/chat.ts","./api/index.ts","./db/index.ts","./db/schema.ts"],"version":"6.0.3"}
